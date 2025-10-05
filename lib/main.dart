@@ -25,7 +25,7 @@ class _QuizAppState extends State<QuizApp> {
     {
       'questions': "Who is the Founder of Microsoft?",
       'options': ['Steve Jobs', 'Elon Musk', 'Bill Gates', 'James Gosling'],
-      'correctAnswer': 2,
+      'correctAnswer': 3,
     },
     {
       'questions': "Who is the Founder of SpaceX?",
